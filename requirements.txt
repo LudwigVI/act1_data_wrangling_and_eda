@@ -206,6 +206,7 @@ scikit-learn==1.9.1
 scipy==1.18.1
 sdmetrics==0.32.0
 sdv==1.38.4
+seaborn==0.13.2
 Send2Trash==2.1.0
 setuptools==84.0.0
 shellingham==1.5.4
